@@ -1,0 +1,5 @@
+rootProject.name = 'akka.guice'
+include 'repository'
+include 'manager'
+include 'injection'
+
